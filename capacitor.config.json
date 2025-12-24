@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.alprofessor.science",
+  "appName": "البروفيسور",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
